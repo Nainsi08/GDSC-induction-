@@ -1,0 +1,5 @@
+pandas
+numpy
+zipfile36
+streamlit
+scikit-learn
